@@ -23,3 +23,5 @@ Either run `build.bat` or `build.sh` depending on your platform.
 (joke is, they're the same file)
 
 The main repo tells users to run it through neko, so we do that as well. But we also run highlighting.hxml for the code highlighting.
+
+For highlighting you'll need the submodules in `grammars/` (XML and JSON have some git errors, so just manually download them.)
