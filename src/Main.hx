@@ -11,7 +11,7 @@ class Main {
       generator.build();
       generator.includeDirectory("assets/includes");
 
-      Redirections.generate();
+      //Redirections.generate();
     });
   }
 }
