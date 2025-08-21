@@ -13,6 +13,7 @@ class Highlighting {
 			"haxe" => "grammars/haxe-TmLanguage/haxe.tmLanguage",
 			"hxml" => "grammars/haxe-TmLanguage/hxml.tmLanguage",
 			"html" => "grammars/xml.tmbundle/Syntaxes/XML.plist",
+			"json" => "grammars/json.tmbundle/Syntaxes/JSON.tmLanguage",
 			"js" => "bin/javascript.json",
 			"javascript" => "bin/javascript.json",
 		];
