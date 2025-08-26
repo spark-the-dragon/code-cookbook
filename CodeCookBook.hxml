@@ -1,7 +1,7 @@
 
 --next
 
--lib markdown
+-lib markdown:git:https://github.com/FunkinCrew/haxe-markdown.git
 -lib hxtemplo:git:https://github.com/Simn/hxtemplo.git
 -lib hxparse
 -cp src
