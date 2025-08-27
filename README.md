@@ -8,7 +8,7 @@ Forked from [Haxe Code CookBook](https://github.com/HaxeFoundation/code-cookbook
 
 You need [Haxe 3.4.2+](https://haxe.org/download/list/) installed.
 
-The static site generator source depends on [hxtemplo](https://lib.haxe.org/p/hxtemplo) and [haxe-markdown](https://lib.haxe.org/p/markdown).
+The static site generator source depends on [hxtemplo](https://lib.haxe.org/p/hxtemplo) and [haxe-markdown (funkin crew fork!)](https://github.com/FunkinCrew/haxe-markdown).
 
 Install the libraries using haxelib, run the following command in the root of the project:
 ```
