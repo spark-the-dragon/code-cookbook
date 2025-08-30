@@ -14,6 +14,7 @@ class Highlighting {
 			"hxml" => "grammars/haxe-TmLanguage/hxml.tmLanguage",
 			"html" => "grammars/xml.tmbundle/Syntaxes/XML.plist",
 			"json" => "grammars/json.tmbundle/Syntaxes/JSON.tmLanguage",
+			"jsonc" => "grammars/json.tmbundle/Syntaxes/JSON.tmLanguage",
 			"js" => "bin/javascript.json",
 			"javascript" => "bin/javascript.json",
 		];
