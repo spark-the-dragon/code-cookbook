@@ -4,6 +4,10 @@
 
 Forked from [Haxe Code CookBook](https://github.com/HaxeFoundation/code-cookbook), this is a one stop shop for all Funkin' Modding Tutorials!
 
+## Article Standards
+
+To create a community article, or simply contribute to the Code CookBook; You can read the [Authoring](authoring.md) page in this repo. After you have done so, you can then create a pull request with the content you have created.
+
 ## Running a local copy
 
 You need [Haxe 3.4.2+](https://haxe.org/download/list/) installed.
