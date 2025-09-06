@@ -14,7 +14,9 @@ Files should be stored inside of `assets/content/cookbook/`, in *sub-directories
 
 The naming convention of those articles should follow Pascal Case and be prepended with the number in that series they represent.
 
-`Introduction/3.CustomCharacters.md` is an example of the correct scheme. With "Introduction" being the *sub-directory*
+We also prepend `0` if the number isn't two digits, this helps the site actually figure out which article comes first!
+
+`Introduction/03.CustomCharacters.md` is an example of the correct scheme. With "Introduction" being the *sub-directory*
 
 ## Formatting
 
